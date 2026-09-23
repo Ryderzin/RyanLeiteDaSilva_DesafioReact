@@ -5,10 +5,6 @@ function Inicio() {
     <main className="conteudo-principal">
       <section className="boas-vindas">
         <h2>Bem-vindo(a)!</h2>
-        <p>
-          Aplicação desenvolvida por <strong>Ryan Leite</strong> nas
-          disciplinas de Desenvolvimento Web III e Tópicos de Programação II.
-        </p>
       </section>
 
       <section className="modulos">
